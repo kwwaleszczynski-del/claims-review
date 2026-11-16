@@ -1,0 +1,17 @@
+{
+  "fit_year": 2022,
+  "test_year": 2023,
+  "n_test_days": 365,
+  "intercept": -2.355,
+  "slope": 1.0701,
+  "mae_raw_m3h": 1.26,
+  "mae_calibrated_m3h": 0.91,
+  "mae_reduction_m3h": 0.35,
+  "mae_reduction_ci95_low": 0.17,
+  "mae_reduction_ci95_high": 0.52,
+  "bootstrap": {
+    "n": 2000,
+    "block_days": 7,
+    "seed": 2024
+  }
+}

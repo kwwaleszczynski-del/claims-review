@@ -1,0 +1,15 @@
+{
+  "name": "claims-review",
+  "description": "Review whether the quantitative claims of a data-analysis repository hold: an independent reviewer subagent reruns and perturbs the analysis and reports ranked findings with file:line evidence.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "review",
+    "data-analysis",
+    "reproducibility",
+    "statistics"
+  ],
+  "author": {
+    "name": "claims-review contributors"
+  }
+}

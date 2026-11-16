@@ -1,0 +1,16 @@
+{
+  "name": "claims-review",
+  "owner": {
+    "name": "claims-review contributors"
+  },
+  "metadata": {
+    "description": "Single-plugin marketplace for claims-review."
+  },
+  "plugins": [
+    {
+      "name": "claims-review",
+      "source": "./",
+      "description": "Review whether the quantitative claims of a data-analysis repository hold."
+    }
+  ]
+}
