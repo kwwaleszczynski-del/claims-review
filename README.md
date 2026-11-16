@@ -38,7 +38,7 @@ Requires Claude Code and Python 3.8+ (standard library only).
 Run it from a local folder without installing:
 
 ```
-git clone <this repository> claims-review
+git clone https://github.com/kwwaleszczynski-del/claims-review
 claude --plugin-dir ./claims-review
 ```
 
@@ -51,7 +51,7 @@ Then, inside Claude Code:
 
 The skill also triggers on requests such as "do the numbers in this repo hold
 up?". The repository carries a single-plugin marketplace manifest, so once it
-is hosted it can be installed with `/plugin marketplace add <owner>/<repo>`
+is hosted it can be installed with `/plugin marketplace add kwwaleszczynski-del/claims-review`
 and `/plugin install claims-review@claims-review`. See "What was verified" for
 what has and has not been tested.
 
